@@ -5,7 +5,7 @@ This program implements a recursive function `sumSquares(int num)` that computes
 
 Mathematically:
 
-sumSquares(n)=0<sup>2+1<sup>2+2<sup>2+⋯+n<sup>2
+sumSquares(n)=0<sup>2 + 1<sup>2 + 2<sup>2 + ⋯ + n<sup>2
 
 The program tests the function using required inputs: `0`, `5`, and `9`.
 
